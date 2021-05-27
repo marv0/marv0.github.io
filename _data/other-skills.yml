@@ -1,0 +1,11 @@
+- name: Graphic Design
+  percentage: 95
+  color: info
+
+- name: Technical Writing
+  percentage: 90
+  color: success
+  
+- name: Creative Writing
+  percentage: 90
+  color: success
