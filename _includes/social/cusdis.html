@@ -1,0 +1,13 @@
+<div class="comments" id="cusdis"
+  data-host="https://cusdis.com"
+  data-app-id="{{ site.cusdis_app_id }}"
+  data-page-id="{{ page.relative_path }}"
+  data-page-url="{{ page.url }}"
+  data-page-title="{{ page.title }}"
+  data-theme="{{ site.color_theme }}"
+></div>
+
+{% if site.data.language.cusdis_lang %}
+<script defer src="https://cusdis.com/js/widget/lang/{{ site.data.language.cusdis_lang }}.js"></script>
+{% endif %}
+<script async src="https://cusdis.com/js/cusdis.es.js"></script>

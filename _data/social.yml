@@ -1,0 +1,39 @@
+# Icons on the footer
+rss: false
+email_address:
+bitbucket:
+dribbble:
+facebook:
+flickr:
+gitlab:
+github: "marv0"
+instagram: "marv.0"
+keybase:
+linkedin: https://www.linkedin.com/in/marvin-ogot-6a67a9109/        # Full URL
+pinterest:
+reddit:
+soundcloud:
+stack_overflow:
+stack_exchange:   # Full URL
+steam:
+tumblr:
+twitter: mrmarv0         # "twitter username"
+vimeo:
+wordpress:
+youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+
+# rss specify feed path
+feed:
+  path: feed.xml
+
+# Share button options
+share:
+  facebook: true
+  twitter: true
+  tumblr: true
+  pinterest: false
+  pocket:
+  reddit: true
+  linkedin: true
+  wordpress:
+  email: true
