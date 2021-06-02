@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/marv0.github.io"
 url: "https://marv0.github.io"
-exclude: "_posts"
+exclude: ['_posts']
 
 # THEME-SPECIFIC CONFIGURATION
 title: mrmarv.in                                  # site's title
