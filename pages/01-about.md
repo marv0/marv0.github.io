@@ -10,6 +10,8 @@ Hello, I am Marvin! I am an avid learner and enjoy solving problems using code. 
 
 Send me an email [marvin.ogot@gmail.com](http://digitalducks.co.ke/)
 
-[Digital Ducks](http://digitalducks.co.ke/) - a Digital Marketing company, [Exotica Kenya](http://exotica.co.ke/) - a Lifestyle Ecommerce Store
+[Digital Ducks](https://digitalducks.co.ke/) - a Digital Marketing company
+[Exotica Kenya](https://exotica.co.ke/) - a Lifestyle Ecommerce Store
+[Machine Learning Blog](https://semasuka.github.io/blog//) - a Lifestyle Ecommerce Store
 
  
