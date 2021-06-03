@@ -23,7 +23,7 @@ Reading and writing, are a long lost skill in this generation of highly pixelate
 > "My father used to tell me that boredom indicates a lack of inner resources." -Stannis Barratheon
 
 ###    4. Accountability and track learning progress
- with this blog I also hope to be able to look back and see how small consistent steps in the right direction can lead to big results. I am motivated through this to become a better learner of all things, a better teacher and writer and most importantly to demand excellence in my field of study. Significant figures like, Roman Emperor, Marcus Aurelius who was also a stoic philosopher, reaped the benefits of journaling to structure his thougths and be accountable to oneself. The difference between a blog and a journal is the audience, I’ll be careful not to write about how I am embarassed about eating 25 chapos on this one, I promise!
+With this blog I also hope to be able to look back and see how small consistent steps in the right direction can lead to big results. I am motivated through this to become a better learner of all things, a better teacher and writer and most importantly to demand excellence in my field of study. Significant figures like, Roman Emperor, Marcus Aurelius who was also a stoic philosopher, reaped the benefits of journaling to structure his thougths and be accountable to oneself. The difference between a blog and a journal is the audience, I’ll be careful not to write about how I am embarassed about eating 25 chapos on this one, I promise!
  
 > Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
 
