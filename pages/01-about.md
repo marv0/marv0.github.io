@@ -12,7 +12,7 @@ Send me an email [marvin.ogot@gmail.com](mailto:marvin.ogot@gmail.com) or catch 
 
 Projects I am actively involved in;  
 1. [Digital Ducks](https://digitalducks.co.ke/) - a digital marketing company.  
-2. [Machine Learning Blog](https://semasuka.github.io/blog//) - blogging about my Machine Learning knowledge and experience.
+2. [Machine Learning Blog](https://semasuka.github.io/blog//) - blogging about my Machine Learning experience and learning curve.
 3. [Exotica Kenya](https://exotica.co.ke/) - building a lifestyle and ecommerce platform.  
 
  
