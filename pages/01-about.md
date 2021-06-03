@@ -6,9 +6,9 @@ feature-img: "assets/img/pexels/travel.jpeg"
 order: 1
 ---
 
-Hello, I am Marvin! I am an avid learner and enjoy messing around with technology to do useful things. My other hobby is writing about topics I like; most commonly technology and other stuff I find interesting. Keep in touch with me.
+Hello, I am Marvin! I am an avid learner and enjoy messing around with technology to do useful things. My other hobby is writing about topics I like; not just limited to technology but other stuff I find interesting. Keep in touch with me.
 
-Send me an email [marvin.ogot@gmail.com](http://digitalducks.co.ke/)
+Send me an email [marvin.ogot@gmail.com](mailto:marvin.ogot@gmail.com)
 
 Projects I am actively involved in;  
 1. [Digital Ducks](https://digitalducks.co.ke/) - a digital marketing company.  
