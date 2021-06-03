@@ -2,7 +2,6 @@
 layout: page
 title: About Me
 permalink: /about/
-color: turquoise
 feature-img: "assets/img/pexels/travel.jpeg"
 order: 1
 ---
