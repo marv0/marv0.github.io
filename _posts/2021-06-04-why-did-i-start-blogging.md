@@ -21,5 +21,7 @@ love to read and write. Reading is like the gym for the brain. reading and writi
 
 ###    4. Accountability and track learning progress
  with this blog I also hope to be able to look back and see how small consistent steps in the right direction can lead to big results. I am motivated through this to become a better learner of all things, a better teacher and writer and most importantly to demand excellence in my field of study. Famous kings like Marcus Aurelius (a great stoic philosopher) reaped the rewards of journaling to structure their thougths and be accountable to oneself. The difference between a blog and a journal is the audience, I’ll be careful not to write about how I am embarassed about eating 25 chapos on this one, I promise!
+ 
+> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
 
 
