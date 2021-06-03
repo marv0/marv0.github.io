@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/travel.jpeg"
 order: 1
 ---
 
-Hello, I am Marvin! I am an avid learner and enjoy messing around with technology to do useful things. My other hobby is writing about topics I like; not just limited to technology but other stuff I find interesting. 
+Hello, I am Marvin! I am Software Engineer and avid learner who enjoys messing around with technology to do useful things. When I have some time on my hands, which is almost always, I write and read about topics I like; not just limited to technology but other stuff I find interesting. If you tag along long enough, we will discover some of the things that excite me.
 
 Keep in touch with me.  
 Send me an [email](mailto:marvin.ogot@gmail.com)  
