@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Why did I start blogging?
-feature-img: "assets/img/feature-img/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
+feature-img: "assets/img/question.webp"
+thumbnail: "assets/img/question.webp"
 hide: true 
 tags: [Learning,Technology]
 author: marvin
