@@ -1,0 +1,25 @@
+---
+layout: post
+title: Why did I start blogging?
+feature-img: "assets/img/feature-img/desk-messy.jpeg"
+thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
+hide: true 
+tags: [Learning,Technology]
+author: marvin
+---
+
+I finally decided to start a blog. And why blog? You might ask. Fairly recently, I redefined myself to be “an avid learner of all things” and commited myself to taking the creative challenge to learn the skill of learning and unlearning and becoming a better student of life and technology. For the most part, this blog is intended to cover technology<!--more--> but expect to find some more insteresting topics that are only pieces to living a more well rounded and satisfactory life, in my opinion. With that said, here are my current reasons for starting to blog;
+
+### 1. Share my knowledge and experiences and create a producitve ecosystem
+I first approached IT in the most incovinient way, by isolating myself which inhibited my ability to present my strengths as well as my weaknesses which meant I couldn’t present my value neither could I get the opportunity to be corrected and taught, to give me a chance at improvement. Looking back I still find that my most productive moments were when I was in complete harmony with my environment, which mostly meant people. I’ve come to learn that you need people to do things, their input, feedback and collaboration. Even better if these people are doing things and building stuff themselves. To my luck, I found that a lot of people in tech were ready to collaborate and share their knowledge and inspire, special thanks to Wiza Jalakasi, whom I’ve never met, Ian Bwana, and old high school mate and two of my college friends, Charles Omwa and Stern Semasuka. 
+
+### 2. A better way to learn
+I was always the guy to take notes while reading, I think it solidifies the thoughts in your brain. reading and writing are better for learning. It improves learning and is better than youtube because it is constantly buidling a muscle which is your brain, reading complex and variety of topics and writing about them is recommended. I appreciate how YouTube and audiobooks save time but I believe that reading is the actual foundation of knowledge, as well as putting things into practice. I find that my knowledge is way more solidified when I read and complement it with other resources better. Books are a haven. I also plan to incorporate FEYNMAN technique to learn better where you learn while teaching and fill the gaps in your knowledge. share my knowledge and experiences -  hoping to inpire and
+
+### 3. Developing good habits and inspired by the 'intellectual life'
+love to read and write. Reading is like the gym for the brain. reading and writing, are a long lost skill in this generation of high pixels and Instagram. I decided that I would start the culture of taking some time to go old school and read and write as much as I can. I also heard of this interesting concept of what makes one's life an intellectual one which was pointed out to having something that nobody can take away from you and is personal to you like a set of personal hobbies, I started taking a keener interest in my old simple pleasures like making a rubber band ball and watching it grow bit by bit. Interestingly enough, shortly after came across another interesting concept 'boredom being a lack of inner resources and nothing has ever resonated deeper. I usually take no chances of late in learning so I did what I needed to do and slammed "inner resources" on my google search bar. Inner resources are basically "Your inner resource examples are creativity, intelligence, confidence, courage, or passion. Moving forward I continue to find new hobbies that bring me joy and satisfaction,
+
+###    4. Accountability and track learning progress
+ with this blog I also hope to be able to look back and see how small consistent steps in the right direction can lead to big results. I am motivated through this to become a better learner of all things, a better teacher and writer and most importantly to demand excellence in my field of study. Famous kings like Marcus Aurelius (a great stoic philosopher) reaped the rewards of journaling to structure their thougths and be accountable to oneself. The difference between a blog and a journal is the audience, I’ll be careful not to write about how I am embarassed about eating 25 chapos on this one, I promise!
+
+
