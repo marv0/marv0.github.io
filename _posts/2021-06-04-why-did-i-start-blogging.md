@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Why did I start blogging?
-color: turquoise
 feature-img: "assets/img/question.webp"
 thumbnail: "assets/img/question.webp"
 tags: [Learning,Technology]
