@@ -15,16 +15,14 @@ I first approached IT in the most incovinient way, by isolating myself which inh
 ### 2. A better way to learn
 A good way to learn is by teaching other people what you have learnt and in the process of teaching, identifying the gaps within your knowledge and revising them and repeating the process; which is called the Feynman Technique.
 
-I have always found that taking notes while reading cemented the subject in my mind. And I found that the more I followed these principles the easier it became. Essentially, reading and writing are generally a foundational part of building the muscle which is your mind.
+I have always found that taking notes while reading cemented the subject in my mind. And I found that the more I followed these principles the easier it became. Reading and writing are a foundational part of building the muscle which is your mind.
 
 ### 3. Developing good habits and inspired by the 'intellectual life'
-Reading and writing, are a long lost skill in this generation of highly pixelated Youtube and Instagram. I decided that I would start the culture of taking some time to go old school and read and write as much as I can. I also discovered an interesting concept of what makes one's life an intellectual one which was pointed out to having something simple and personal to you like a set of personal hobbies which could be something as simple as gardening or cooking, or in my case messing around with tech. In doing this, what one essential does is build on their inner resources which include creativity, intelligence, passion, confidence and resilience. Moving forward I intend to continue to find new hobbies that bring me joy and satisfaction.
+Reading and writing, are a long lost skill in this generation of highly pixelated Youtube and Instagram. I decided that I would start the culture of taking some time to go old school and read and write as much as I can. I also discovered an interesting concept of what makes one's life an intellectual one which was interestingly not pointed out to having a higher IQ or smartness rather to having something simple and personal to you like a set of personal hobbies and passions that nobody can take away from you, which could be something as simple as gardening or cooking, or in my case messing around with tech. In doing this, what one essentially does is build on their inner resources which include creativity, intelligence, passion, confidence and resilience. Moving forward I intend to continue to find new hobbies that bring me joy and satisfaction.
  
 > "My father used to tell me that boredom indicates a lack of inner resources." -Stannis Barratheon
 
 ###    4. Accountability and track learning progress
 With this blog I also hope to be able to look back and see how small consistent steps in the right direction can lead to big results. I am motivated through this to become a better learner of all things, a better teacher and writer and most importantly to demand excellence in my field of study. Significant figures like, Roman Emperor, Marcus Aurelius who was also a stoic philosopher, reaped the benefits of journaling to structure his thougths and be accountable to oneself. The difference between a blog and a journal is the audience, I’ll be careful not to write about how I am embarassed about eating 25 chapos on this one, I promise!
- 
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
 
 
