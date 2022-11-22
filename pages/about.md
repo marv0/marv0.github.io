@@ -9,7 +9,7 @@ permalink: /about/
 
 <img class="img-rounded" src="/assets/img/uploads/potrait.png" alt="Marvin Ogot" width="200">
 
-# About Me
+# About Mey BLog
 
 Hello, world! I'm a software developer with experience building functional web and mobile applications.
 The Flutter framework and Dart programming language are my most reliable tools. I also use Python as a 
