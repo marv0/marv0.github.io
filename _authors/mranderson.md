@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/potrait.png
 name: mrmarv.in
 display_name: Marvin Ogot
 position: The One
