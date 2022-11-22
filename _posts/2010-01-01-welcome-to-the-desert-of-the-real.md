@@ -1,8 +1,8 @@
 ---
 date: 2019-05-16T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: My first blog post; building mind, body and soul for living powerfully.
+subtitle: 'I would say I'm really excited to be taking on a new path. A path to intentional and wholesome living.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
