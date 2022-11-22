@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Marvin Ogot" width="200">
+<img class="img-rounded" src="/assets/img/uploads/potrait.png" alt="Marvin Ogot" width="200">
 
 # About Me
 
