@@ -14,3 +14,6 @@ permalink: /about/
 Hello, world! I'm a software developer with experience building functional web and mobile applications.
 The Flutter framework and Dart programming language are my most reliable tools. I also use Python as a 
 secondary tool along with it's several frameworks.
+
+image: >-
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
