@@ -1,8 +1,8 @@
 ---
 date: 2019-05-16T23:48:05.000Z
 layout: post
-title: Welcome to my blog.
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: My first blog post; building mind, body and soul for living powerfully.
+subtitle: 'Weclome to my blog guys. It's been a while I have taken time to  Edging closer and closer is my 26th birthday.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
