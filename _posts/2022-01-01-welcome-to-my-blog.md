@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2022-11-22T23:48:05.000Z
 layout: post
 title: My first blog post; building mind, body and soul for living powerfully.
 subtitle: 'Weclome to my blog guys. It's been a while I have taken time to  Edging closer and closer is my 26th birthday.'
