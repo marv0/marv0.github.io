@@ -10,8 +10,6 @@ category: tutorial
 tags:
   - technology
   - blog
-  - jekyll
-  - github pages
 author: mrmarv.in
 ---
 
