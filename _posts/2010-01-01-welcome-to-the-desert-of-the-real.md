@@ -1,8 +1,8 @@
 ---
 date: 2022-05-16T23:48:05.000Z
 layout: post
-title: Building mind body and soul.
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Building mind body and soul for living powerfully.
+subtitle: 'Weclome to my first blog dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
