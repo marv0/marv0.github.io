@@ -7,8 +7,6 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.jpg" alt="Marvin Ogot" width="200">
-
 # About The Author
 
 Hello, world! I'm a software developer with experience building functional web and mobile applications.
