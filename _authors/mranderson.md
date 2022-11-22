@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
+name: mrmarv.in
 display_name: Marvin Ogot
 position: The One
 bio: Human bean.
