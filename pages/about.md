@@ -9,8 +9,6 @@ permalink: /about/
 
 # About The Author
 
-Hello, world! I'm a software developer with experience building functional web and mobile applications.
-The Flutter framework and Dart programming language are my most reliable tools. I also use Python as a 
-secondary tool along with it's several frameworks.
+Hello, world! I'm Marvin Ogot.
 
-> Building mind, body and soul for living powerfully!
+As a software developer, I have some experience building functional web and mobile applications with the Flutter framework and Dart programming language as some of my most reliable tools. In my arsenal, I also have the Python programming language as a secondary tool, especially for it's wide array of applications. As an entrepreneur, I love building companies that help businesses and indiviuals altogether.
