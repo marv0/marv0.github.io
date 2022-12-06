@@ -9,6 +9,8 @@ permalink: /about/
 
 # About The Author
 
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Marvin Ogot" width="600">
+
 Hello, world! I'm Marvin Ogot.
 
 I'm a software developer with some experience building functional web and mobile applications. In my arsenal, I have the Flutter framework and Dart programming language as some of my most reliable tools. And who would miss out on Python?
