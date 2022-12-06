@@ -1,7 +1,7 @@
 ---
 date: 2022-11-22 08:26:40
 layout: post
-title: 5 Things Every Computer Science Major Should Learn.
+title: 8 Things Computer Science Majors Should Learn.
 subtitle: Welcome to my blog. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
