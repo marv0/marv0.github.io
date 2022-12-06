@@ -9,7 +9,7 @@ permalink: /about/
 
 # About The Author
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Marvin Ogot" width="600">
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Marvin Ogot" width="400">
 
 Hello, world! I'm Marvin Ogot.
 
