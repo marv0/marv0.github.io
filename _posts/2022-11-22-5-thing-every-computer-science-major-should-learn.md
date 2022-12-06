@@ -14,7 +14,7 @@ tags:
 author: mrmarv.in
 ---
 
-#### 8 Things  Computer Science Majors Should Learn.
+## 8 Things  Computer Science Majors Should Learn.
 
 ### 01. Learning How To Learn
 One of the biggest challenges in the CS field is learning how to learn. You'll need to master techniques used by experts in many other fields, such as how the brain uses two very different learning modes and how it chunks information—not to mention that you'll have to deal with procrastination and other forms of distraction.
