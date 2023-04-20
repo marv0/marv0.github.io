@@ -14,3 +14,37 @@ I'm Marvin Ogot. I am a proficient software developer with expertise in web and 
 In addition to my IT background, I am also an entrepreneur and an accounting professional who is dedicated to making a positive impact on Africa's future. My focus is on building capacity and empowering communities through the use of technology, sports, and entrepreneurship as drivers of socioeconomic growth.
 
 I am always eager to explore new ideas and interests while seeking opportunities to push boundaries and foster innovation.
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Upvotes</th>
+      <th>Downvotes</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Totals</td>
+      <td>21</td>
+      <td>23</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Alice</td>
+      <td>10</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>Bob</td>
+      <td>4</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Charlie</td>
+      <td>7</td>
+      <td>9</td>
+    </tr>
+  </tbody>
+</table>
