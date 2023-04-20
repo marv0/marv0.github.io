@@ -9,10 +9,12 @@ permalink: /about/
 
 # About The Author
 
-<img class="img-rounded" src="/assets/img/uploads/IMG_20220921_072016_055.jpg" alt="Marvin Ogot" width="200" align="left">
+<img class="img-rounded" src="/assets/img/uploads/marvin.png" alt="Marvin Ogot" width="200" align="left">
 
 Hello, world! I'm Marvin Ogot.
 
-I'm a software developer with some experience building functional web and mobile applications. In my arsenal, I have the Flutter framework and Dart programming language as some of my most reliable tools. And who would miss out on Python?
+I am a proficient software developer with expertise in web and mobile technologies. My competencies in Dart, Python, and PHP, along with their associated frameworks, enable me to utilize dependable and effective tools to solve a wide range of problems using code.
 
-Besides technology, I love building companies that help businesses and indiviuals altogether.
+In addition to my IT background, I am also an entrepreneur and an accounting professional who is dedicated to making a positive impact on Africa's future. My focus is on building capacity and empowering communities through the use of technology, sports, and entrepreneurship as drivers of socioeconomic growth.
+
+I am always eager to explore new ideas and interests while seeking opportunities to push boundaries and foster innovation.
