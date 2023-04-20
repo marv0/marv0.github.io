@@ -7,11 +7,9 @@ description: Some description.
 permalink: /about/
 ---
 
-# About Me
+# Hello, world!👋
 
-Hello, world! I'm Marvin Ogot.
-
-I am a proficient software developer with expertise in web and mobile technologies. My competencies in Dart, Python, and PHP, along with their associated frameworks, enable me to utilize dependable and effective tools to solve a wide range of problems using code.
+I'm Marvin Ogot. I am a proficient software developer with expertise in web and mobile technologies. My competencies in Dart, Python, and PHP, along with their associated frameworks, enable me to utilize dependable and effective tools to solve a wide range of problems using code.
 
 In addition to my IT background, I am also an entrepreneur and an accounting professional who is dedicated to making a positive impact on Africa's future. My focus is on building capacity and empowering communities through the use of technology, sports, and entrepreneurship as drivers of socioeconomic growth.
 
