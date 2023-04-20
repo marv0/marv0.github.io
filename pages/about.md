@@ -9,8 +9,6 @@ permalink: /about/
 
 # About The Author
 
-<img class="img-rounded" src="/assets/img/uploads/marvin.png" alt="Marvin Ogot" width="200" align="left">
-
 Hello, world! I'm Marvin Ogot.
 
 I am a proficient software developer with expertise in web and mobile technologies. My competencies in Dart, Python, and PHP, along with their associated frameworks, enable me to utilize dependable and effective tools to solve a wide range of problems using code.
