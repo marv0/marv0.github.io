@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-# About The Author
+# About Me
 
 Hello, world! I'm Marvin Ogot.
 
