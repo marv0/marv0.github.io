@@ -21,6 +21,7 @@ I am always eager to explore new ideas and interests while seeking opportunities
       <th>Company</th>
       <th>Title</th>
       <th>Description</th>
+      <th>Project Link</th>
     </tr>
   </thead>
   <tfoot>
@@ -28,6 +29,7 @@ I am always eager to explore new ideas and interests while seeking opportunities
       <td>Totals</td>
       <td>21</td>
       <td>23</td>
+      <td>Description</td>
     </tr>
   </tfoot>
   <tbody>
@@ -35,6 +37,7 @@ I am always eager to explore new ideas and interests while seeking opportunities
       <td>Digital Ducks</td>
       <td>Founder</td>
       <td>We help your business thrive in the emerging digital era.</td>
+      <td>www.digitalducks.co.ke</td>
     </tr>
     <tr>
       <td>Young Invested</td>
