@@ -18,9 +18,9 @@ I am always eager to explore new ideas and interests while seeking opportunities
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
+      <th>Company</th>
+      <th>Title</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tfoot>
@@ -32,9 +32,9 @@ I am always eager to explore new ideas and interests while seeking opportunities
   </tfoot>
   <tbody>
     <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
+      <td>Digital Ducks</td>
+      <td>Founder</td>
+      <td>We help your business thrive in the emerging digital era.</td>
     </tr>
     <tr>
       <td>Bob</td>
