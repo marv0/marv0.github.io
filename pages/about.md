@@ -37,9 +37,9 @@ I am always eager to explore new ideas and interests while seeking opportunities
       <td>We help your business thrive in the emerging digital era.</td>
     </tr>
     <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
+      <td>Young Invested</td>
+      <td>Founder</td>
+      <td>As an organization, we are committed to empowring young people using sports, technology and entrerpreneurship.</td>
     </tr>
     <tr>
       <td>Charlie</td>
