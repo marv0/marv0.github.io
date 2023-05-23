@@ -7,9 +7,9 @@ description: Some description.
 permalink: /about/
 ---
 
-## About Me
-
 ![placeholder](https://placehold.it/800x400 "Large example image")
+
+## About Me
 
 Hello, world!👋 I'm a software developer specializing in creating applications that prioritize the needs and engagement of end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft software solutions that not only meet consumer needs but also deliver exceptional user experiences.
 
