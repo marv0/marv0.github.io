@@ -19,4 +19,4 @@ Together, let's explore uncharted territories, break barriers, and shape a brigh
 
 1. At [Digital Ducks](https://www.digitalducks.co.ke), we are a dynamic provider of innovative digital solutions for businesses, specializing in software development, media production, digital marketing and IT support services.
 2. [Young Invested](https://www.younginvested.org) - as an organization, we are commited to empowering young peoeple using sports, technology and entrepreneurship.
-3. [Bold Beacon](https://www.boldbeacon.net)
+3. [Bold Beacon](https://www.boldbeacon.net) - we are a leading media/news company in Kenya.
