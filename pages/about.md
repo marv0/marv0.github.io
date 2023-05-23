@@ -17,6 +17,6 @@ Together, let's explore uncharted territories, break barriers, and shape a brigh
 
 ## Projects
 
-1. Founded [Digital Ducks](https://www.digitalducks.co.ke) in the year 2020, a dynamic provider of innovative digital solutions for businesses, specializing in software development, media production, digital marketing and IT support services.
-2. [Digital Ducks](https://www.digitalducks.co.ke)
+1. At [Digital Ducks](https://www.digitalducks.co.ke), we are a dynamic provider of innovative digital solutions for businesses, specializing in software development, media production, digital marketing and IT support services.
+2. [Young Invested](https://www.digitalducks.co.ke)
 3. [Digital Ducks](https://www.digitalducks.co.ke)
