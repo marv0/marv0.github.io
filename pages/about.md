@@ -7,8 +7,16 @@ description: Some description.
 permalink: /about/
 ---
 
+## About Me
+
 Hello, world!👋 I'm a software developer specializing in creating applications that prioritize the needs and engagement of end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft software solutions that not only meet consumer needs but also deliver exceptional user experiences.
 
 In addition to my strong IT background, I am driven by my entrepreneurial spirit and a deep commitment to making a positive impact on Africa's future. I firmly believe in harnessing the power of technology, sports, and entrepreneurship to empower the younger generation and act as catalysts for socioeconomic growth.
 
 I am poised to create lasting change in the dynamic landscape of technology. Together, let's explore uncharted territories, break barriers, and shape a brighter future.
+
+## Projects
+
+1. Vestibulum id ligula porta felis euismod semper.[Digital Ducks](https://www.digitalducks.co.ke).
+2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+3. Maecenas sed diam eget risus varius blandit sit amet non magna.
