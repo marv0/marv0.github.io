@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 menu: false
 date: '2023-05-23 23:06:59'
 title: About
