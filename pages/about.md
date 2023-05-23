@@ -7,8 +7,8 @@ description: Some description.
 permalink: /about/
 ---
 
-Hello, world!👋 I am a competent software developer who has expertise in Dart, Python, and PHP. My competencies in those languages and their associated frameworks allow me to utilize reliable and effective tools to solve a wide range of problems using code.
+Hello, world!👋 I'm a software developer specializing in creating applications that prioritize the needs and engagement of end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft software solutions that not only meet consumer needs but also deliver exceptional user experiences.
 
-In addition to my IT background, I am also an entrepreneur who is dedicated to making a positive impact on Africa's future through the use of technology, sports, and entrepreneurship as means to empower young people and drivers of socioeconomic growth.
+In addition to my strong IT background, I am driven by my entrepreneurial spirit and a deep commitment to making a positive impact on Africa's future. I firmly believe in harnessing the power of technology, sports, and entrepreneurship to empower the younger generation and act as catalysts for socioeconomic growth.
 
-I am always eager to explore new ideas and interests while seeking opportunities to push boundaries and foster innovation.
+With an insatiable curiosity and by integrating my technical prowess, entrepreneurial drive, and unwavering passion for innovation, I am poised to create lasting change in the dynamic landscape of technology. Together, let's explore uncharted territories, break barriers, and shape a brighter future.
