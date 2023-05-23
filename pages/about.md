@@ -7,9 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-# Hello, world!👋
-
-I am a competent software developer who has expertise in Dart, Python, and PHP. My competencies in those languages and their associated frameworks allow me to utilize reliable and effective tools to solve a wide range of problems using code.
+Hello, world!👋 I am a competent software developer who has expertise in Dart, Python, and PHP. My competencies in those languages and their associated frameworks allow me to utilize reliable and effective tools to solve a wide range of problems using code.
 
 In addition to my IT background, I am also an entrepreneur who is dedicated to making a positive impact on Africa's future through the use of technology, sports, and entrepreneurship as means to empower young people and drivers of socioeconomic growth.
 
