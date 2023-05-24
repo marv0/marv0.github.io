@@ -6,7 +6,7 @@ title: About
 description: Some description.
 permalink: /about/
 ---
-#### Hello, world!👋
+### Hello, world!👋
 
 I'm a customer-facing software engineer developing apps and websites that prioritize the needs and engagement of their intended end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft digital products that meet consumer needs and deliver exceptional user experiences. 
 
