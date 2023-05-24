@@ -6,7 +6,7 @@ title: About
 description: Some description.
 permalink: /about/
 ---
-<img class="img-rounded" src="/assets/img/uploads/marvin.png" alt="Marvin Ogot" width="200">
+<img class="#" src="/assets/img/uploads/marvin.png" alt="Marvin Ogot" width="200">
 
 ### Hello, world!👋
 
