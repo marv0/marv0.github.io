@@ -10,7 +10,7 @@ permalink: /about/
 
 ### About Me 
 
-Hello, world! I am Marvin Ogot and I’m an entrepreneur and software engineer.
+Hello, world! I'm Marvin Ogot and I’m an entrepreneur and software engineer.
 
 I started this blog to keep track of my learning and share relevant information on diverse topics entrepreneurship, and various technologies, not limited to software. *Additionally, I may cover topics related to personal development.* If you have the slightest interest in building and delivering great products and services, then this blog is for you!
 
@@ -20,7 +20,7 @@ As a software engineer, I develop apps and websites that prioritize the needs an
 
 ### Enterpreneurial Drive
 
-At an early age, I learned the importance of having a competitive edge and drive through competitive sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sport's science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books; "Rich Dad Poor Dad", "Why A Students Work for C Students" and "Before You Quit Your Job," my perspective shifted, fueling my burgeoning entrepreneurial spirit.
+At an early age, I learned the importance of having a competitive edge and drive through competitive sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sport's science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books; "Rich Dad Poor Dad", "Why A Students Work for C Students" and "Before You Quit Your Job," and my perspective shifted, fueling my burgeoning entrepreneurial spirit.
 
 After graduating in 2020, I immediately ventured into laying the foundation of establishing my own company, [Digital Ducks](https://www.digitalducks.co.ke), which I have taken to new heights, offering innovative digital solutions to businesses. Our expertise spans software development, media production, digital marketing, and IT support services, enabling businesses to navigate the evolving digital landscape and achieve growth and success.
 
