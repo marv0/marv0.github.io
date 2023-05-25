@@ -6,10 +6,6 @@ title: aboutme
 description: Hello, world! Welcome to my blog! I’m Marvin Ogot and I'm an entrepreneur and software engineer based in Kenya.
 permalink: /about/
 ---
-<img class="img" src="/assets/img/uploads/dp.png" alt="Marvin Ogot">
-
-### About Me 
-
 Hello, world! I'm Marvin Ogot and I’m an entrepreneur and software engineer based in Kenya. 
 
 I started this blog to keep track of my learning and share relevant information on diverse topics entrepreneurship, and various technologies, not limited to software. *Additionally, I may cover topics related to personal development.* If you have the slightest interest in building and delivering great products and services, then this blog is for you!
