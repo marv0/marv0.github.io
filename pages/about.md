@@ -10,7 +10,7 @@ permalink: /about/
 
 ### Hello, world!👋 
 
-Welcome to my blog! I’m Marvin Ogot, an entrepreneur and software engineer based in Kenya. 
+Welcome to my blog! I’m Marvin Ogot, an entrepreneur and software engineer based in Kenya. I am thrilled to share my journey and insights with you.
 
 As a software engineer, I develop apps and websites that prioritize the needs and engagement of end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft digital products that meet consumer needs and deliver exceptional user experiences.
 
@@ -20,7 +20,9 @@ After graduating in 2020, I immediately ventured into laying the foundation of e
 
 Additionally, my entrepreneurial spirit has driven me towards a deep commitment to making a positive impact on Africa's socioeconomic landscape. Through Young Invested, we harness the power of technology, sports, and entrepreneurship to empower young people all over Kenya and act as catalysts for socioeconomic growth. By leveraging the transformative power of sports, technology, and entrepreneurship, we strive to provide the tools, resources and mentors required to create opportunities and drive positive change within our communities.
 
-Let’s network, break barriers and explore uncharted territories!
+I invite you to join me on this exciting journey as we network, break barriers, and explore uncharted territories together!
+
+Thank you for visiting, and I look forward to connecting with you soon!
 
 [Contact me](/contact) or read my [blog](/) here.
 
