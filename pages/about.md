@@ -12,9 +12,7 @@ permalink: /about/
 
 Hello, world! I am Marvin Ogot and I’m an entrepreneur and software engineer.
 
-I started this blog to keep track of my learning progress and share relevant information about my journey as an entrepreneur while and diverse technologies, not just limited to software. Additionally, I may cover topics related to personal development. If you have the slightest interest in building and delivering great products and services, then this blog is for you!
-
-> Software plays a vital role in driving technological advancement. In recent years, software integration has become increasingly prevalent in sectors like healthcare, finance, transportation, and manufacturing. As digital transformation continues to grow, software becomes a fundamental component for driving progress and innovation across different fields.
+I started this blog to keep track of my learning and share relevant information on diverse topics on entrepreneurship and various technologies, not limited to software. Additionally, I may cover topics related to personal development. If you have the slightest interest in building and delivering great products and services, then this blog is for you!
 
 ### Professional Experience 
 
