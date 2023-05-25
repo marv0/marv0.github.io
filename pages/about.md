@@ -6,7 +6,7 @@ title: aboutme
 description: Hello, world! Welcome to my blog! I’m Marvin Ogot and I'm an entrepreneur and software engineer based in Kenya.
 permalink: /about/
 ---
-#### Hello, world!👋 
+### Hello, world!👋 
 
 Welcome to my blog!
 
