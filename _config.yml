@@ -19,8 +19,6 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-  - title: Projects
-    url: /about
 email: hello@mrmarv.in
 # See: https://disqus.com/
 disqus_username: disqus_username
