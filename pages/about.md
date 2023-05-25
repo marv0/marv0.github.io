@@ -10,7 +10,9 @@ permalink: /about/
 
 ### About Me 
 
-Hello, world! I’m Marvin Ogot, an entrepreneur and software engineer based in Kisumu, Kenya. I started this blog as a part of my efforts to create a space to track my learning progress while sharing knowledge and my experiences on this journey. If you have the slightest interest in building and delivering great products and services, then this blog is for you! I'll be thrilled to share my journey and insights with you.
+Hello, world! I am Marvin Ogot and I’m an entrepreneur and software engineer. I love building products and delivering services that make people's lives better. 
+
+I started this blog as a part of my efforts to track my learning progress while sharing knowledge and my experiences on this journey. If you have the slightest interest in building and delivering great products and services, then this blog is for you! I'll be thrilled to share my journey and insights with you.
 
 ### Professional Experience 
 
