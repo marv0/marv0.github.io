@@ -11,14 +11,14 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: Blog
     url: /
-  - title: About
+  - title: About 
     url: /about
+  - title: Portfolio
+    url: /portfolio
   - title: Contact
     url: /contact
-  - title: Feeder
-    url: /feed.xml
 email: hello@mrmarv.in
 # See: https://disqus.com/
 disqus_username: disqus_username
