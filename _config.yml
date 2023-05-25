@@ -1,8 +1,8 @@
 # Site Settings
 name: mrmarv.in
 title: mrmarv.in
-description: mrmarv.in is a blog my by
-  Marvin Ogot.
+description: Hello, world!👋
+I’m Marvin Ogot, an entrepreneur and software engineer based in Kenya. Welcome to my blog!
 tags:
   - blog
   - template
@@ -19,7 +19,9 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+  - title: Projects
+    url: /about
+email: hello@mrmarv.in
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
