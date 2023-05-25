@@ -2,8 +2,8 @@
 layout: page
 menu: false
 date: '2023-05-23 23:06:59'
-title: About
-description: Some description.
+title: aboutme
+description: Welcome to my blog! I’m Marvin Ogot and I'm an entrepreneur and software engineer based in Kenya.
 permalink: /about/
 ---
 ### Hello, world!👋 
