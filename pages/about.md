@@ -12,7 +12,7 @@ permalink: /about/
 
 Hello, world! I am Marvin Ogot and I’m an entrepreneur and software engineer.
 
-I started this blog as a part of my efforts to track my learning progress while sharing knowledge and my experiences on this journey. If you have the slightest interest in building and delivering great products and services, then this blog is for you! I'll be thrilled to share my journey and insights with you.
+I started this blog to keep track of my learning progress and share relevant information about my journey as an entrepreneur. As a software engineer, I'm passionate about various technologies, not just limited to software. Interestingly enough, a large percentage of technologies today rely on software. I also plan to write about entrepreneurship and personal development topics. If you have the slightest interest in building and delivering great products and services, then this blog is for you!
 
 ### Professional Experience 
 
