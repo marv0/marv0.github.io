@@ -22,5 +22,5 @@ Additionally, my entrepreneurial spirit has driven me towards a deep commitment 
 
 Let’s network, break barriers and explore uncharted territories!
 
-[Contact](/contact) me or read my [Blog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+[Contact me](/contact) or read my [blog](/) here.
 
