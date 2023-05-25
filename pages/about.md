@@ -24,7 +24,7 @@ Additionally, my entrepreneurial spirit has driven me towards a deep commitment 
 
 ### Technical Expertise
 
-As a software engineer, I develop apps and websites that prioritize the needs and engagement of end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft digital products that meet consumer needs and deliver exceptional user experiences.
+As a software engineer, I develop apps and websites that prioritize the needs and engagement of end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft digital products that meet consumer needs and deliver exceptional user experiences. You can view my personal gitgub [here](https://github.com/marv0).
 
 ### Closing Remarks
 
