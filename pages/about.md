@@ -12,11 +12,9 @@ permalink: /about/
 
 Hello, world! I am Marvin Ogot and I’m an entrepreneur and software engineer.
 
-I started this blog to keep track of my learning progress and share relevant information about my journey as an entrepreneur while and diverse technologies, not just limited to software. 
+I started this blog to keep track of my learning progress and share relevant information about my journey as an entrepreneur while and diverse technologies, not just limited to software. Additionally, I may cover topics related to personal development. If you have the slightest interest in building and delivering great products and services, then this blog is for you!
 
-> Interestingly enough, a large percentage of technologies today rely on software. 
-
-Additionally, I may cover topics related to personal development. If you have the slightest interest in building and delivering great products and services, then this blog is for you!
+> Interestingly enough, a large percentage of technological advancement relies on software. In recent years, the integration of software into various domains, such as healthcare, finance, transportation, and manufacturing, has become increasingly prevalent. With the rise of digital transformation, software has become a fundamental component in powering and enabling technological advancements across diverse fields.
 
 ### Professional Experience 
 
