@@ -14,7 +14,7 @@ Hello, world! I am Marvin Ogot and I’m an entrepreneur and software engineer.
 
 I started this blog to keep track of my learning and share relevant information on diverse topics entrepreneurship, and various technologies, not limited to software. *Additionally, I may cover topics related to personal development.* If you have the slightest interest in building and delivering great products and services, then this blog is for you!
 
-### Professional Background 
+### Technical Expertise
 
 As a software engineer, I develop apps and websites that prioritize the needs and engagement of end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft digital products that meet consumer needs and deliver exceptional user experiences.
 
