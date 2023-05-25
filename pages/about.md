@@ -8,7 +8,7 @@ permalink: /about/
 ---
 ### Hello, world!👋
 
-I’m an entrepreneur and customer-facing software engineer developing apps and websites that prioritize the needs and engagement of their intended end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft digital products that meet consumer needs and deliver exceptional user experiences.
+I’m an entrepreneur and customer-facing software engineer developing apps and websites that prioritize the needs and engagement of end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft digital products that meet consumer needs and deliver exceptional user experiences.
 
 At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around being a professional (athlete included), the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books; "Rich Dad Poor Dad", "Why A Students Work for B Students" and "Before You Quit Your Job," my perspective shifted, fueling my burgeoning entrepreneurial spirit.
 
