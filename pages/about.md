@@ -10,9 +10,7 @@ permalink: /about/
 
 ### Hello, world!👋 
 
-Welcome to my blog!
-
-I’m Marvin Ogot, an entrepreneur and software engineer based in Kenya. 
+I’m Marvin Ogot, an entrepreneur and software engineer based in Kenya. Welcome to my blog!
 
 As a software engineer, I develop apps and websites that prioritize the needs and engagement of end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft digital products that meet consumer needs and deliver exceptional user experiences.
 
