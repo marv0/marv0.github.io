@@ -9,6 +9,6 @@ permalink: /contact/
 
 ### Let's connect
 
-* Send me an email: [hello@mrmarv.in](<a href="mailto:email@example.com">Send Email</a>)
+* Send me an email: [hello@mrmarv.in](<a href="mailto:email@example.com"></a>)
 * Catch me on Whatsapp: [+254704562901](https://wa.me/<+254704562901>)
 
