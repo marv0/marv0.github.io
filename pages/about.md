@@ -12,11 +12,15 @@ permalink: /about/
 
 Hello, world!👋 I'm Marvin Ogot and I’m an entrepreneur and software engineer based in Nairobi, Kenya. Welcome to my blog!
 
-I started this blog to keep track of my learning and share relevant information on diverse topics on business and entrepreneurship, and various technologies (*not limited to software*). *Additionally, I may cover topics related to personal development, sustainability, tools and tool-making among other stuff.* If you have the slightest interest in building and delivering great products and services, then this blog is for you!
+I started this blog to keep track of my learning and share relevant information on diverse topics on business and entrepreneurship, and various technologies (*not limited to software*). *Additionally, I may cover topics related to sustainable energy, personal development, and more.* If you have the slightest interest in building and delivering great products and services, then this blog is for you!
 
 ### Enterpreneurial Drive
 
-At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sport's science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring book; "Rich Dad, Poor Dad", and my perspective shifted, fueling my burgeoning entrepreneurial spirit.
+At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sport's science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books, including;
+* Rich Dad, Poor Dad
+* Before You Quit Your Job
+* Why A Students Work For C Students and more
+My perspective shifted, fueling my burgeoning entrepreneurial spirit.
 
 After graduating in 2020, I immediately ventured into laying the foundation of establishing my own company, [Digital Ducks](https://www.digitalducks.co.ke), which I have taken to new heights, offering innovative digital solutions to businesses in various industries. We specialize in software development, media production, digital marketing and, IT support, enabling businesses to navigate the evolving digital landscape and achieve growth and success.
 
