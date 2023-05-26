@@ -3,7 +3,7 @@ layout: page
 menu: false
 date: '2023-05-23 23:06:59'
 title: aboutme
-description: Hello, world! Welcome to my blog! I’m Marvin Ogot and I'm an entrepreneur and software engineer based in Kenya.
+description: Hello, world!👋 I'm Marvin Ogot and I’m an entrepreneur and software engineer based in Nairobi, Kenya. Welcome to my blog!
 permalink: /about/
 ---
 <img class="img" src="/assets/img/uploads/#" alt="Marvin Ogot">
