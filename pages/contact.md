@@ -9,6 +9,6 @@ permalink: /contact/
 
 ### Let's connect
 
-* Send me an email: [hello@mrmarv.in](https://www.digitalducks.co.ke)
+* Send me an email: [hello@mrmarv.in](<a href="mailto:email@example.com">Send Email</a>)
 * Catch me on Whatsapp: [+254704562901](https://wa.me/<+254704562901>)
 
