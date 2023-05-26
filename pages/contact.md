@@ -10,5 +10,5 @@ permalink: /contact/
 ### Let's connect
 
 * Send me an email: [hello@mrmarv.in](https://www.digitalducks.co.ke)
-* Catch me on Whatsapp: [+254704562901](https://www.digitalducks.co.ke)
+* Catch me on Whatsapp: [+254704562901](https://wa.me/<+254704562901>)
 
