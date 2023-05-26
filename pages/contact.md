@@ -8,8 +8,10 @@ permalink: /contact/
 ---
 
 ### Let's connect
-[Digital Ducks](https://www.digitalducks.co.ke)
-[Digital Ducks](https://www.digitalducks.co.ke)
+
+Email Address: [hello@mrmarv.in](https://www.digitalducks.co.ke)
+Whatsapp Me: [+254704562901](https://www.digitalducks.co.ke)
+
 [Digital Ducks](https://www.digitalducks.co.ke)
 
 [Contact me](/contact) or read my [blog](/) here.
