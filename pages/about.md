@@ -16,7 +16,7 @@ I started this blog to keep track of my learning and share relevant information 
 
 ### Enterpreneurial Drive
 
-At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sport's science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books, "Rich Dad, Poor Dad", "Before You Quit Your Job", "Why A Students Work For C Students", among others and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
+At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sport's science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books, *"Rich Dad, Poor Dad", "Before You Quit Your Job", and "Why A Students Work For C Students", among others,* and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
 
 After graduating in 2020, I immediately ventured into laying the foundation of establishing my own company, [Digital Ducks](https://www.digitalducks.co.ke), which we have taken to new heights, offering innovative digital solutions to businesses in various industries. We specialize in software development, media production, digital marketing and, IT support, enabling businesses to navigate the evolving digital landscape and achieve growth and success.
 
