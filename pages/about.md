@@ -20,7 +20,7 @@ At an early age, I learned the importance of having a competitive edge and drive
 
 After graduating in 2020, I immediately ventured into laying the foundation of establishing [Digital Ducks](https://www.digitalducks.co.ke), a dynamic enterprise which we have taken to new heights, offering innovative digital solutions to businesses in various industries. We specialize in software development, media production, digital marketing and, IT support, enabling businesses to navigate the evolving digital landscape and achieve growth and success.
 
-Additionally,  my entrepreneurial spirit has driven me towards a deep commitment to making a positive impact on Africa's social and economic landscape.Through [Young Invested](https://www.younginvested.org), our mission is to empower young people and foster social and economic growth using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative power of these fields and we provide the necessary tools, resources, mentors, and opportunities for our communities to thrive and drive positive change.
+Additionally,  my entrepreneurial spirit has driven me towards a deep commitment to making a positive impact on Africa's social and economic landscape. Through [Young Invested](https://www.younginvested.org), our mission is to empower young people and foster social and economic growth using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative power of these fields and we provide the necessary tools, resources, mentors, and opportunities for our communities to thrive and drive positive change.
 
 ### Technical Expertise
 
