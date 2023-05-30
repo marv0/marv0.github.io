@@ -1,5 +1,5 @@
 ---
-date: 2023-04-30 09:00:00
+date: 2023-05-29 09:00:00
 layout: post
 title: Building a Strong Foundation; Vital Skills for CS Majors
 subtitle: Navigating the Path to Excellence in the World of Technology and Innovation
