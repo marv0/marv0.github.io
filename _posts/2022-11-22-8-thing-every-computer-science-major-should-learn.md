@@ -1,7 +1,7 @@
 ---
 date: 2022-11-22 08:26:40
 layout: post
-title: Building a Strong Foundation: Vital Skills for Computer Science Majors
+title: Building a Strong Foundation; Vital Skills for Computer Science Majors
 subtitle: Navigating the Path to Excellence in the World of Technology and Innovation
 description: In the rapidly evolving field of Computer Science, developing a strong foundation and acquiring the right skills are paramount to success. In this comprehensive blog post, we explore 10 vital skills that every Computer Science major should focus on. From mastering learning techniques to understanding network infrastructure, data structures, and algorithms, this guide provides invaluable insights and practical knowledge. Whether you are a student embarking on your academic journey or a professional seeking to expand your expertise, this resource will equip you with the essential tools to excel in the dynamic world of technology and innovation.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
