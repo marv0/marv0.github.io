@@ -1,5 +1,5 @@
 ---
-date: 2022-11-22 08:26:40
+date: 2023-05-30 09:00:00
 layout: post
 title: Building a Strong Foundation; Vital Skills for Computer Science Majors
 subtitle: Navigating the Path to Excellence in the World of Technology and Innovation
