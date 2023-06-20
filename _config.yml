@@ -3,7 +3,7 @@ name: mrmarv.in
 title: mrmarv.in
 description: Hello, world!
   I’m Marvin Ogot, an entrepreneur and software engineer based in Kenya. 
-  Welcome to my Jekyll based blog hosted on GitHub pages 
+  Welcome to my Jekyll-based blog hosted on GitHub pages 
   to keep track of my learning and share relevant information on diverse 
   topics on business and entrepreneurship, and various technologies (not limited to software). 
   Additionally, I may cover topics related to sustainable energy, personal development, and more.
@@ -25,7 +25,7 @@ menu:
     url: /contact
 email: hello@mrmarv.in
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: marvinogot
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
