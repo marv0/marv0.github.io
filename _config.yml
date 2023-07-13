@@ -15,7 +15,7 @@ tags:
   - netlify
 show_hero: true
 menu:
-  -title: Home
+  - title: Home
     url: /bideo.js-master/index.html
   - title: Blog
     url: /
