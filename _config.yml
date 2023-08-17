@@ -3,10 +3,7 @@ name: mrmarv.in
 title: mrmarv.in
 description: Hello, world!
   I’m Marvin Ogot, an entrepreneur and software engineer based in Kenya. 
-  Welcome to my Jekyll-based blog hosted on GitHub pages 
-  to keep track of my learning and share relevant information on diverse 
-  topics on business and entrepreneurship, and various technologies (not limited to software). 
-  Additionally, I may cover topics related to sustainable energy, personal development, and more.
+  Welcome to my personal blog focusing on business, entrepreneurship, and diverse technologies (including more than just software). Constructed using a Jekyll theme and maintained on GitHub pages for easy upkeep.
 tags:
   - blog
   - template
@@ -15,8 +12,6 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
-    url: /bideo.js-master/index.html
   - title: Blog
     url: /
   - title: About 
