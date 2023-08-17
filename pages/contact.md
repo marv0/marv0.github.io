@@ -10,5 +10,5 @@ permalink: /contact/
 ### Let's connect
 
 * Send me a mail:<a href="mailto:hello@mrmarv.in"> hello@mrmarv.in</a>
-* Whatsapp: [+254704562901](https://wa.me/<+254700500611>)
+* Whatsapp: [+254700500611](https://wa.me/<+254700500611>)
 
