@@ -3,20 +3,20 @@ layout: page
 menu: false
 date: '2023-05-23 23:06:59'
 title: aboutme
-description: Hello, world!👋 I'm Marvin Ogot and I’m an entrepreneur and software engineer based in Nairobi, Kenya. Welcome to my blog!
+description: Hello, world!👋 I'm Marvin Ogot, an entrepreneur and software engineer based in Nairobi, Kenya. Welcome to my blog!
 permalink: /about/
 ---
 <img class="img" src="/assets/img/uploads/#" alt="Marvin Ogot">
 
 ### About Me 
 
-Hello, world!👋 I'm Marvin Ogot and I’m an entrepreneur and software engineer based in Nairobi, Kenya. Welcome to my blog!
+Hello, world!👋 I'm Marvin Ogot, an entrepreneur and software engineer based in Nairobi, Kenya. Welcome to my blog!
 
 ### Why This Blog?
 
-I started this blog as part of my efforts to keep track of my learning and share relevant information on diverse topics on business and entrepreneurship, and various technologies (*not limited to software*). *Additionally, I may cover topics related to personal development, and more.* If you have the slightest interest in building and delivering great products and services, then this blog is for you!
+I started this blog with the intention of documenting my learning journey while also sharing valuable insights across a wide spectrum of subjects encompassing business, entrepreneurship, and a range of technologies that extend beyond just software. *Moreover, I anticipate delving into areas associated with personal development, and more.* If you have the slightest interest in building and delivering great products and services, then this blog is for you!
 
-### Enterpreneurial Drive
+### Entrepreneurial Drive
 
 At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sport's science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books, *"Rich Dad, Poor Dad", "Before You Quit Your Job", and "Why A Students Work For C Students", among others,* and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
 
