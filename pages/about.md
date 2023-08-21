@@ -20,7 +20,9 @@ I started this blog with the intention of documenting my learning journey while 
 
 At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sport's science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books, *"Rich Dad, Poor Dad", "Before You Quit Your Job", and "Why A Students Work For C Students", among others,* and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
 
-After graduating in 2020, I immediately ventured into laying the foundation of establishing [Digital Ducks](https://www.digitalducks.co.ke), a dynamic enterprise which we have taken to new heights, offering innovative digital solutions to businesses in various industries. We specialize in software development, media production, digital marketing and, IT support, enabling businesses to navigate the evolving digital landscape and achieve growth and success.
+### Laying The Foundation
+
+Shortly after graduation,  I eagerly ventured into laying the foundation of establishing [Digital Ducks](https://www.digitalducks.co.ke), a dynamic enterprise that has since soared to remarkable heights, enabling businesses to navigate the evolving digital landscape and achieve growth and success
 
 Additionally,  my entrepreneurial spirit has driven me towards a deep commitment to making a positive impact on Africa's social and economic landscape. Through [Young Invested](https://www.younginvested.org), our mission is to empower young people and foster social and economic growth using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative power of these fields and we provide the necessary tools, resources, mentors, and opportunities for our communities to thrive and drive positive change.
 
