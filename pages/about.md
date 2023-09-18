@@ -10,7 +10,8 @@ permalink: /about/
 
 ### About Me 
 
-Hello, world!👋 I'm Marvin Ogot, an entrepreneur and software engineer based in Nairobi, Kenya. Welcome to my [blog](/)!
+Hello, world!👋 I'm Marvin Ogot, an entrepreneur and software engineer based in Nairobi, Kenya. 
+Welcome to my [blog](/)!
 
 ### Why This Blog?
 
