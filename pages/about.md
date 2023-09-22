@@ -25,11 +25,11 @@ At an early age, I learned the importance of having a competitive edge and drive
 
 Shortly after graduation, I eagerly ventured into laying the foundation of establishing [Digital Ducks](https://www.digitalducks.co.ke), a dynamic enterprise that has since soared to remarkable heights, enabling businesses to navigate the ever-evolving digital landscape and achieve growth and success.
 
-Furthermore, my entrepreneurial spirit has driven me towards a deep commitment to making a positive impact on Africa’s social and economic landscape. At [Young Invested](https://www.younginvested.org), our overarching mission revolves around empowering young people and fostering social and economic growth using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative power of these fields and we provide the necessary tools, resources, mentors, and opportunities for our communities to thrive and drive positive change.
+Furthermore, my passion for entrepreneurship has led me to focus on making a positive impact on Africa’s social and economic landscape. At [Young Invested](https://www.younginvested.org), our main goal is to empower young people and foster social and economic growth using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative power of these fields, so we provide the necessary tools, resources, mentors, and opportunities for our communities to thrive and drive positive change.
 
 ### Technical Expertise
 
-As a software engineer, I develop apps and websites that prioritize the needs and engagement of end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft digital products that meet consumer needs and deliver exceptional user experiences. You can view my personal GitHub [here](https://github.com/marv0).
+In my role as a software engineer, I create applications with a strong focus on meeting the needs and engagement of the intended end-users. By blending my technical expertise, UI/UX design principles, and a user-centric approach, I craft digital products that meet consumer needs and deliver exceptional user experiences. You can view my personal GitHub [here](https://github.com/marv0).
 
 ### Closing Remarks
 
