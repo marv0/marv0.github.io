@@ -24,7 +24,7 @@ At an early age, I learned the importance of having a competitive edge and drive
 
 Shortly after graduation, I eagerly ventured into laying the foundation of establishing [Digital Ducks](https://www.digitalducks.co.ke), a dynamic enterprise that has since soared to remarkable heights, enabling businesses to navigate the ever-evolving digital landscape and achieve growth and success.
 
-Furthermore, my passion for entrepreneurship has led me to focus on making a positive impact on Africa’s social and economic landscape. At [Young Invested](https://www.younginvested.org), our main goal is to empower young people and foster social and economic growth using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative power of these fields, so we provide the necessary tools, resources, mentors, and opportunities for our communities to thrive and drive positive change.
+My passion for entrepreneurship has further led me to focus on making a positive impact on Africa’s social and economic landscape. Through [Young Invested](https://www.younginvested.org), we aim to empower young people and foster social and economic growth within our communities using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative potential of these fields and providing the essential tools, resources, mentors, and opportunities for our communities to thrive and create positive change.
 
 ### Technical Expertise
 
