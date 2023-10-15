@@ -2,7 +2,7 @@
 layout: page
 menu: false
 date: '2023-05-23 23:06:59'
-title: about-marvin
+title: about
 description: Marvin Ogot is an entrepreneur and software engineer leveraging technology as a tool to solve day-to-day problems and drive business success.
 permalink: /about/
 ---
