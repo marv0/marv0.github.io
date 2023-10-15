@@ -10,7 +10,7 @@ permalink: /about/
 
 ### About Me 
 
-Hello, world!👋 I'm Marvin Ogot, a software engineer and entrepreneur leveraging technology as a tool to solve day-to-day problems and drive business success. Welcome to my [blog](/)! In my active role as a software developer, I create user-centric applications that meet consumer needs and consistently deliver exceptional user experiences. You can view my personal GitHub [here](https://github.com/marv0).
+Hello, world!👋 I'm Marvin Ogot, a software engineer and entrepreneur leveraging technology as a tool to solve day-to-day problems and drive business success. In my active role as a software developer, I create user-centric applications that meet consumer needs and consistently deliver exceptional user experiences. You can view my personal GitHub [here](https://github.com/marv0) or proceed to read my [blog](/).
 
 ### Why This Blog?
 
