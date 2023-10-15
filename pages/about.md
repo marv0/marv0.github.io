@@ -14,7 +14,7 @@ Hello, world!👋 I'm Marvin Ogot, a software engineer and entrepreneur leveragi
 
 ### Why This Blog?
 
-I started this [blog](/) as a way to document my journey while sharing valuable insights across a spectrum of subjects encompassing business, entrepreneurship and a range of technologies that extend beyond just software. *Moreover, I anticipate delving into areas associated with personal development and more.* If you have the slightest interest in building and delivering great products and services, this blog is for you!
+I started this [blog](/) as a way to document my journey while sharing valuable insights on business, entrepreneurship and a range of technologies that extend beyond just software. *Moreover, I anticipate delving into areas associated with personal development and more.* If you have the slightest interest in building and delivering great products and services, this blog is for you!
 
 ### Entrepreneurial Drive
 
