@@ -2,7 +2,7 @@
 layout: page
 menu: false
 date: '2023-05-23 23:06:59'
-title: aboutme
+title: about-marvin
 description: Marvin Ogot is an entrepreneur and software engineer leveraging technology as a tool to solve day-to-day problems and drive business success.
 permalink: /about/
 ---
@@ -10,11 +10,11 @@ permalink: /about/
 
 ### About Me 
 
-Hello, world!👋 I'm Marvin Ogot, a software engineer and entrepreneur leveraging technology as a tool to solve day-to-day problems and drive business success. Welcome to my personal [blog](/).
+Hello, world!👋 I'm Marvin Ogot, a software engineer and entrepreneur leveraging technology as a tool to solve day-to-day problems and drive business success.
 
 ### Why This Blog?
 
-I started this [blog](/) as a way to document my learning journey while sharing valuable insights across a spectrum of subjects encompassing business, entrepreneurship and a range of technologies that extend beyond just software. *Moreover, I anticipate delving into areas associated with personal development and more.* If you have the slightest interest in building and delivering great products and services, this blog is for you!
+I started this [blog](/) as a way to document my journey while sharing valuable insights across a spectrum of subjects encompassing business, entrepreneurship and a range of technologies that extend beyond just software. *Moreover, I anticipate delving into areas associated with personal development and more.* If you have the slightest interest in building and delivering great products and services, this blog is for you!
 
 ### Entrepreneurial Drive
 
