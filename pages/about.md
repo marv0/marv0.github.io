@@ -10,7 +10,7 @@ permalink: /about/
 
 ### About Me 
 
-Hello, world!👋 I'm Marvin Ogot, a software engineer and entrepreneur leveraging technology as a tool to solve day-to-day problems and drive business success.
+Hello, world!👋 I'm Marvin Ogot, a software engineer and entrepreneur leveraging technology as a problem-solving tool.
 
 ### Why This Blog?
 
