@@ -18,11 +18,11 @@ At an early age, I learned the importance of having a competitive edge and drive
 
 ## Inline HTML elements
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Some of the projects I've worked and continue to work on:
 
-- **[Digital Ducks](https://www.digitalducks.co.ke).:** Our mission is to empower businesses of all sizes by offering the most compelling digital solutions.
+- **[Digital Ducks](https://www.digitalducks.co.ke):** Our mission is to empower businesses of all sizes by offering the most compelling digital solutions.
 
-- **[Digital Ducks](https://www.digitalducks.co.ke).:** Our mission is to empower businesses of all sizes by offering the most compelling digital solutions.
+- **[Digital Ducks](https://www.digitalducks.co.ke):** Our mission is to empower businesses of all sizes by offering the most compelling digital solutions.
 
 ## Laying The Foundation
 
