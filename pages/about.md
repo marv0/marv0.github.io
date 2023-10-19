@@ -14,7 +14,7 @@ Hello, world! 👋 I'm a software engineer and entrepreneur on a mission to empo
 
 ### Entrepreneurial Drive
 
-At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sports science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books,and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
+At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sports' science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books and philosophies,and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
 
 ### Laying The Foundation
 
