@@ -18,7 +18,7 @@ I started this [blog](/) as a way to document my journey while sharing valuable 
 
 ### Entrepreneurial Drive
 
-At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sports science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books, *Rich Dad, Poor Dad, Before You Quit Your Job and Why A Students Work For C Students, among others,* and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
+At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sports science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books,and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
 
 ### Laying The Foundation
 
