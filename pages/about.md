@@ -24,7 +24,7 @@ My passion for entrepreneurship has further led me to focus on making a positive
 
 ### Technical Expertise
 
-In my active role as a software developer, I create user-centric applications that meet consumer needs and consistently deliver exceptional user experiences. View my [GitHub](https://github.com/marv0).
+As a software developer, I create user-centric applications that meet consumer needs and consistently deliver exceptional user experiences. View my [GitHub](https://github.com/marv0).
 
 ### Why This Blog?
 
@@ -32,7 +32,8 @@ I started this [blog](/) as a way to document my journey while sharing valuable 
 
 ### Closing Remarks
 
-I invite you to join me on this exciting journey as we network, break barriers, and explore uncharted territories together! Thank you for visiting, and I look forward to [connecting](/contact) with you soon!
+Join me on this exciting journey as we network, break barriers, and explore uncharted territories together!
 
-Go ahead and read my [blog](/).
+[connecting](/contact) 
+
 
