@@ -16,6 +16,14 @@ Hello, world! 👋 I'm a software engineer and entrepreneur on a mission to empo
 
 At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sports' science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books and philosophies,and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
 
+## Inline HTML elements
+
+HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+
+- **Digital Ducks:** Our mission is to empower businesses of all sizes by offering the most compelling digital solutions.
+- *To italicize text*, use `<em>`.
+- Abbreviations, like <abbr title="HyperText Markup
+
 ### Laying The Foundation
 
 Shortly after graduation, I eagerly ventured into laying the foundation of establishing [Digital Ducks](https://www.digitalducks.co.ke), a dynamic enterprise that has since soared to remarkable heights, enabling businesses to navigate the ever-evolving digital landscape and achieve growth and success.
