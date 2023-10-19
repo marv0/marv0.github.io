@@ -16,9 +16,9 @@ Hello, world! 👋 I'm a software engineer and entrepreneur on a mission to empo
 
 At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sports' science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books and philosophies, and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
 
-## Inline HTML elements
+## Busy Building
 
-Some of the projects I've worked and continue to work on:
+Some of the projects I've worked on and continue to work on:
 
 - **[Digital Ducks](https://www.digitalducks.co.ke):** Our mission is to empower businesses of all sizes by offering the most compelling digital solutions.
 
