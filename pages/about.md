@@ -24,9 +24,7 @@ My passion for entrepreneurship has further led me to focus on making a positive
 
 ### Technical Expertise
 
-In my active role as a software developer, I create user-centric applications that meet consumer needs and consistently deliver exceptional user experiences. 
-
-View my [GitHub](https://github.com/marv0).
+In my active role as a software developer, I create user-centric applications that meet consumer needs and consistently deliver exceptional user experiences. View my [GitHub](https://github.com/marv0).
 
 ### Why This Blog?
 
