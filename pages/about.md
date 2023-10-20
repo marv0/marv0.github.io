@@ -22,7 +22,7 @@ Some of the projects I've worked on and continue to work on:
 
 - **[Digital Ducks](https://www.digitalducks.co.ke):** Our mission is to empower businesses of all sizes by offering the most compelling digital solutions.
 
-- **[Digital Ducks](https://www.digitalducks.co.ke):** Our mission is to empower businesses of all sizes by offering the most compelling digital solutions.
+- **[Young Invested](https://www.younginvested.org):** A non-profit organization empowering young people using sports, technology and entrepreneurship.
 
 ## Laying The Foundation
 
