@@ -10,7 +10,9 @@ permalink: /about/
 
 ## About Me 
 
-Hello, world! 👋 I'm a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology and entrepreneurship as transformative tools. As a software developer, I create user-centric applications that meet consumer needs and consistently deliver exceptional user experiences.
+Hello, world! 👋 I'm a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology and entrepreneurship as transformative tools. 
+
+As a software developer, I create user-centric applications that meet consumer needs and consistently deliver exceptional user experiences.
 
 ## Laying The Foundation
 
