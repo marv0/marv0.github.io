@@ -38,7 +38,7 @@ I started this [blog](/) to document my journey while sharing valuable insights 
 
 ## Closing Remarks
 
-Join me on this exciting journey as we network, break barriers, and explore uncharted territories together!
+Join me on this exciting journey as we network, break barriers and explore uncharted territories together!
 
 [connecting](/contact) 
 
