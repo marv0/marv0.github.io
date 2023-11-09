@@ -12,11 +12,9 @@ permalink: /about/
 
 Hello, world! 👋 I'm a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology and entrepreneurship as transformative tools. 
 
-As a software developer, I create user-centric applications that meet consumer needs and consistently deliver exceptional user experiences.
-
 ## Laying The Foundation
 
-At an early age, I learned the importance of having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey. While my childhood dreams revolved around sports' science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books and philosophies, and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
+At an early age, I learned the importance of passion, and having a competitive edge and drive through sports, which laid the foundation for my entrepreneurial journey and my career in technology. While my childhood dreams revolved around sports' science and engineering, the idea of entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books and philosophies, and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
 
 ## Busy Building
 
