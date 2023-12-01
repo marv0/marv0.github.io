@@ -28,8 +28,8 @@ My passion for entrepreneurship has further led me to focus on positively impact
 
 ## Closing Remarks
 
-Join me on this exciting journey as we network, break barriers and explore uncharted territories together!
 
-[connecting](/contact) 
+[Join me](/contact) on this exciting journey as we network, break barriers and explore uncharted territories together!
+
 
 
