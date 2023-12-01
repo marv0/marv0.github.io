@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.jpg
-name: Marvin
+name: Marvin Ogot
 display_name: Marvin Ogot
 position: Writer. Entrepreneur. Software Engineer.
 bio: Hello, world! I'm Marvin Ogot, an entrepreneur and software engineer based in Kenya.
