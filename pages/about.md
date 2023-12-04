@@ -18,7 +18,7 @@ I started this [blog](/) to document my journey while sharing valuable insights 
 
 ## Laying The Foundation
 
-At an early age, I picked up fundamental principles of success such as discipline, commitment, teamwork, and passion (very important) through sports, which laid the foundation for my entrepreneurial journey and my career in technology. While my childhood dreams revolved around sports' science and engineering, entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books and philosophies while pursuing a Bachelor's degree in Software Engineering, and my perspective shifted; fueling my burgeoning entrepreneurial spirit! Besides, it was in the midst of the technopreneur era, with the likes of Mark Zuckerberg, and Jeff Bezos, among others being ever so popular. The stars were aligning!
+At an early age, I picked up fundamental principles of success such as discipline, commitment, teamwork, and passion (very important) through sports, which laid the foundation for my entrepreneurial journey and my career in technology. While my childhood dreams revolved around sports' science and engineering, entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books and philosophies while pursuing a Bachelor's degree in Software Engineering, and my perspective shifted; fueling my burgeoning entrepreneurial spirit! Besides, this was all happening in the midst of the technopreneur era, with the likes of Mark Zuckerberg, and Jeff Bezos, among others being ever so popular. The stars were aligning!
 
 ## Pursuing The Dream
 
