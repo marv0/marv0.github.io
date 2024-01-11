@@ -12,10 +12,10 @@ tags:
   - netlify
 show_hero: true
 menu:
+  - title: About
+    url: /about
   - title: Blog
     url: /
-  - title: About 
-    url: /about
   - title: Portfolio
     url: /portfolio
   - title: Contact
