@@ -15,8 +15,6 @@ menu:
     url: /about
   - title: Blog
     url: / 
-  - title: Contact
-    url: /contact
 email: hello@mrmarv.in
 # See: https://disqus.com/
 disqus_username: marvinogot
