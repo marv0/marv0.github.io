@@ -22,9 +22,9 @@ At an early age, I picked up fundamental principles of success through sports, w
 
 ## Projects
 
-[Digital Ducks](https://www.digitalducks.co.ke), a dynamic enterprise that has since soared to remarkable heights, enabling businesses to navigate the ever-evolving digital landscape and achieve growth and success.
+- [Digital Ducks](https://www.digitalducks.co.ke), a dynamic enterprise that has since soared to remarkable heights, enabling businesses to navigate the ever-evolving digital landscape and achieve growth and success.
 
-[Young Invested](https://www.younginvested.org), we aim to empower young people and foster social and economic growth within our communities using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative potential of these fields and providing the essential tools, resources, mentors, and opportunities for our communities to thrive and create positive change.
+- [Young Invested](https://www.younginvested.org), we aim to empower young people and foster social and economic growth within our communities using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative potential of these fields and providing the essential tools, resources, mentors, and opportunities for our communities to thrive and create positive change.
 
 ## Closing Remarks
 
