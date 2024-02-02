@@ -10,11 +10,11 @@ permalink: /about/
 
 ## About Me 
 
-Hello, world! 👋 I'm a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools. 
+Hello, world! 👋 I'm a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.   building and delivering great products and services
 
 ## Why This Blog?
 
-I started this [blog](/) to share valuable insights on business, entrepreneurship, and a range of technologies beyond just software. *Moreover, I anticipate delving into areas associated with personal development and more.* If you have, the slightest, interest in building and delivering great products and services, this blog is for you!
+This [blog](/), constructed using a Jekyll theme and maintained on GitHub pages for easy upkeep,  serves to share valuable insights on business, entrepreneurship, and technology; beyond software. *Moreover, I anticipate delving into areas associated with personal development and more.* If you have, the slightest, interest in, this blog is for you! 
 
 ## Laying The Foundation
 
