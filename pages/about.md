@@ -21,11 +21,7 @@ Whenever I don't have my face stuffed behind a book or computer screen, you can 
 
 At an early age, I picked up fundamental success principles through sports, which laid the foundation for my entrepreneurial journey and my career in technology. While my childhood dreams revolved around sports science and engineering, entrepreneurship never crossed my mind until I stumbled upon Robert Kiyosaki's inspiring books and philosophies, and my perspective shifted; fueling my burgeoning entrepreneurial spirit!
 
-## Projects
-
-- [Digital Ducks](https://www.digitalducks.co.ke), a dynamic enterprise that has since soared to remarkable heights, enabling businesses to navigate the ever-evolving digital landscape and achieve growth and success.
-
-- [Young Invested](https://www.younginvested.org), we aim to empower young people and foster social and economic growth within our communities using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative potential of these fields and providing the essential tools, resources, mentors, and opportunities for our communities to thrive and create positive change.
+I am currently building, [Digital Ducks](https://www.digitalducks.co.ke), a dynamic enterprise that has since soared to remarkable heights, enabling businesses to navigate the ever-evolving digital landscape and achieve growth and success, and [Young Invested](https://www.younginvested.org), where we aim to empower young people and foster social and economic growth within our communities using sports, technology, and entrepreneurship as powerful tools. We believe in harnessing the transformative potential of these fields and providing the essential tools, resources, mentors, and opportunities for our communities to thrive and create positive change.
 
 ## About This Blog
 
