@@ -15,7 +15,7 @@ serves to share valuable insights on business, entrepreneurship, and technology;
 
 I love learning and conversely, this blog serves to share valuable insights on business, entrepreneurship, and technology; beyond software. *Moreover, I anticipate delving into areas associated with personal development and more.*  
 
-Whenever I don't have my face stuffed behind a book or computer screen, you can be sure to catch me building and delivering a great product or service. If you have the slightest interest in this, this blog is for you! 
+If you have the slightest interest in building and delivering great products and services, this blog is for you! 
 
 ## Laying The Bricks
 
