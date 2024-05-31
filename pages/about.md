@@ -14,9 +14,9 @@ Hello, world! 👋
 
 I’m a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship as transformative tools.
 
-As a full-stack engineer, my toolkit consists of Python and Flask for developing scalable server-side solutions and effecient RESTful APIs while for the front end, React allows me to create rich and interactive user interfaces.
+As a full-stack engineer, my toolkit consists of Python and Flask for developing scalable server-side solutions and efficient RESTful APIs while for the front end, React allows me to create rich and interactive user interfaces.
 
-My expertise spans the full development lifecycle, from building powerful backend architectures to creating engaging user experiences on the frontend.
+My expertise spans the full development lifecycle, from building powerful backend architectures to creating engaging user experiences on the front end.
 I love learning and conversely, this blog serves to share valuable insights on business, entrepreneurship, and technology; beyond software.
 
 If you have the slightest interest in building and delivering great products and services, this blog is for you! 
