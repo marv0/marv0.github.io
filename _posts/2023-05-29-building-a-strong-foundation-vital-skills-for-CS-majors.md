@@ -12,6 +12,7 @@ tags:
   - dart
   - python
 author: mrmarv.in
+published: false
 ---
 Computer Science is a rapidly evolving field that requires individuals to possess a diverse set of skills to navigate its complexities successfully. In this blog post, we will explore eight crucial areas that every Computer Science major should focus on to thrive in their academic and professional journey. From fundamental learning techniques to technical proficiencies, these skills will equip aspiring computer scientists with the knowledge and tools they need to excel in the dynamic world of technology.
 ### 01. Learning How To Learn
