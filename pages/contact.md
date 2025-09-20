@@ -10,5 +10,6 @@ permalink: /contact/
 ### Let's connect
 
 * Send me a mail:<a href="mailto:hello@mrmarv.in"> hello@mrmarv.in</a>
-* Whatsapp: [+254704562901](https://wa.me/<+254704562901>)
+* Personal mobile: [+254704562901](https://wa.me/<+254704562901>)
+* Digital Ducks: [+254718542880](https://wa.me/<+254718542880>)
 
