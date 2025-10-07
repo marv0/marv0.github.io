@@ -1,5 +1,5 @@
 ---
-date: 2025-10-06 12:26:40
+date: 2025-10-07 12:26:40
 layout: post
 title: How to SSL-secure my GitHub Pages Jekyll blog
 subtitle: How to SSL-secure my GitHub Pages Jekyll blog
