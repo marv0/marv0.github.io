@@ -8,9 +8,10 @@ optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380
 category: code
 tags:
   - platform
-  - javascript
-  - vscode
-author: mranderson
+  - jekyll
+  - ssl
+author: mrmarv.in
+comments: true
 ---
 
 **Good news — GitHub Pages** already provides **free SSL (HTTPS)** automatically for all custom domains and default *.github.io domains.* You just need to make sure your configuration is correct.
