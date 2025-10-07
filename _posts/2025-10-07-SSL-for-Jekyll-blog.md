@@ -26,15 +26,16 @@ If your site is something like:
 https://username.github.io
 
 ```
+
 ✅ GitHub Pages **automatically enables HTTPS** for it.
 
 To confirm:
 
-Go to your repository on GitHub.
+- Go to your repository on GitHub.
 
-Click Settings → Pages.
+- Click **Settings → Pages**.
 
-Under “Custom domain” and “Enforce HTTPS”, ensure “Enforce HTTPS” is checked.
+- Under **“Custom domain” and “Enforce HTTPS”,** ensure **“Enforce HTTPS” is checked.**
 
 That’s it — your site will always redirect to HTTPS.
 
@@ -65,13 +66,13 @@ www  →  yourusername.github.io
 ```
 (Replace yourusername with your GitHub username.)
 
-Step 2: Add Your Custom Domain in GitHub
+## Step 2: Add Your Custom Domain in GitHub
 
-Go to your repo → Settings → Pages
+1. Go to your repo → **Settings → Pages**
 
-Under Custom domain, enter your domain (e.g., www.yoursite.com)
+2. Under **Custom domain**, enter your domain (e.g., www.yoursite.com)
 
-Click Save
+3. Click **Save**
 
 GitHub will verify your DNS and automatically issue an SSL certificate (via Let’s Encrypt).
 
@@ -83,11 +84,11 @@ Once the certificate is ready (can take a few minutes or hours):
 
 2. Test your site:
 
-- Visit both http:// and https:// versions.
+* Visit both http:// and https:// versions.
 
-- It should automatically redirect to HTTPS.
+* It should automatically redirect to HTTPS.
 
-🔐 3. Force HTTPS Redirects in Jekyll (Optional)
+### 🔐 3. Force HTTPS Redirects in Jekyll (Optional)
 
 Even though GitHub usually handles redirects, you can force it manually by adding this to your _config.yml:
 
