@@ -26,7 +26,17 @@ If your site is something like:
 https://username.github.io
 
 ```
+✅ GitHub Pages **automatically enables HTTPS** for it.
 
+To confirm:
+
+Go to your repository on GitHub.
+
+Click Settings → Pages.
+
+Under “Custom domain” and “Enforce HTTPS”, ensure “Enforce HTTPS” is checked.
+
+That’s it — your site will always redirect to HTTPS.
 
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
