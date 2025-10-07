@@ -1,5 +1,5 @@
 ---
-date: 2025-10-07 12:26:40
+date: 2025-10-06 12:26:40
 layout: post
 title: Hello, world!👋 I identify as a software developer.
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
