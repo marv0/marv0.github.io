@@ -13,9 +13,9 @@ tags:
 author: mranderson
 ---
 
-Good news — GitHub Pages already provides free SSL (HTTPS) automatically for all custom domains and default *.github.io domains. You just need to make sure your configuration is correct.
+**Good news — GitHub Pages** already provides **free SSL (HTTPS)** automatically for all custom domains and default *.github.io domains.* You just need to make sure your configuration is correct.
 
-Here’s how to make your Jekyll blog fully SSL-secure:
+Here’s how to make your **Jekyll blog fully SSL-secure**:
 
 ## 1. If You’re Using the Default GitHub.io Domain
 
