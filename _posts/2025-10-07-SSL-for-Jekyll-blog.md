@@ -31,11 +31,11 @@ https://username.github.io
 
 To confirm:
 
-- Go to your repository on GitHub.
+1. Go to your repository on GitHub.
 
-- Click **Settings → Pages**.
+2. Click **Settings → Pages**.
 
-- Under **“Custom domain” and “Enforce HTTPS”,** ensure **“Enforce HTTPS” is checked.**
+3. Under **“Custom domain” and “Enforce HTTPS”,** ensure **“Enforce HTTPS” is checked.**
 
 That’s it — your site will always redirect to HTTPS.
 
