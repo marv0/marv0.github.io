@@ -19,8 +19,7 @@ menu:
     url: /bideo.js-master/    
 email: hello@mrmarv.in
 # See: https://disqus.com/
-disqus:
-  shortname: marvinogot
+disqus_username: marvinogot
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
