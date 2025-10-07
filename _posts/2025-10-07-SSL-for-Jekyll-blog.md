@@ -19,6 +19,16 @@ Here’s how to make your **Jekyll blog fully SSL-secure**:
 
 ## 1. If You’re Using the Default GitHub.io Domain
 
+If your site is something like:
+
+```js
+
+https://username.github.io
+
+```
+
+
+
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
 - **To bold text**, use `<strong>`.
