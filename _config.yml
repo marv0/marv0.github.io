@@ -13,7 +13,9 @@ menu:
   - title: About
     url: /about
   - title: Blog
-    url: / 
+    url: /
+  - title: Landing
+    url: /bideo.js-master/    
 email: hello@mrmarv.in
 # See: https://disqus.com/
 disqus_username: marvinogot
