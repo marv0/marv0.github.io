@@ -38,6 +38,58 @@ Under “Custom domain” and “Enforce HTTPS”, ensure “Enforce HTTPS” is
 
 That’s it — your site will always redirect to HTTPS.
 
+## 2. If You’re Using a Custom Domain
+
+If you’re using a domain like www.yoursite.com or blog.yourbrand.co.ke, follow these steps:
+
+**Step 1: Configure DNS Correctly**
+
+In your DNS provider (e.g., Cloudflare, GoDaddy, Namecheap), add:
+
+**A Records (for apex domain e.g., yoursite.com):**
+
+```js
+
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+```
+**CNAME Record (for www):**
+
+```js
+
+www  →  yourusername.github.io
+
+```
+(Replace yourusername with your GitHub username.)
+
+Step 2: Add Your Custom Domain in GitHub
+
+Go to your repo → Settings → Pages
+
+Under Custom domain, enter your domain (e.g., www.yoursite.com)
+
+Click Save
+
+GitHub will verify your DNS and automatically issue an SSL certificate (via Let’s Encrypt).
+
+**Step 3: Enforce HTTPS**
+
+Once the certificate is ready (can take a few minutes or hours):
+
+1. Check the **“Enforce HTTPS”** box under **Settings → Pages.**
+
+2. Test your site:
+
+- Visit both http:// and https:// versions.
+
+- It should automatically redirect to HTTPS.
+
+🔐 3. Force HTTPS Redirects in Jekyll (Optional)
+
+Even though GitHub usually handles redirects, you can force it manually by adding this to your _config.yml:
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
