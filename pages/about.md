@@ -6,7 +6,7 @@ title: about
 description: Hello, world! 👋 I'm a software engineer and entrepreneur on a mission to empower 1M+ young people using sports, technology, and entrepreneurship.
 permalink: /about/
 ---
-<img class="img" src="/assets/img/uploads/#" alt="Marvin Ogot">
+<img class="img" src="/assets/img/uploads/marvin.png" alt="Marvin Ogot">
 
 ## About Me 
 
